@@ -1,0 +1,15 @@
+{
+  "name": "bitagu-nodejs-website-user-page",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://xcoder.org/hb/bitagu-nodejs-website-user-page.git"
+  },
+  "author": "hb",
+  "license": "ISC"
+}
