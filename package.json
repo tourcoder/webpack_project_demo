@@ -11,5 +11,10 @@
     "url": "https://xcoder.org/hb/bitagu-nodejs-website-user-page.git"
   },
   "author": "hb",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  }
 }
