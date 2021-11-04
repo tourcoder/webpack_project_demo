@@ -10,7 +10,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "hb",
+  "author": "Bin Hua",
   "license": "ISC",
   "dependencies": {
     "koa": "^2.8.1",
